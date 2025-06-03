@@ -1,0 +1,19 @@
+{
+  "name": "swastik-provision-store",
+  "version": "1.0.0",
+  "description": "website for swastik provision store",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viramhh98/Swastik-provision-store.git"
+  },
+  "author": "VIRAM SHAH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viramhh98/Swastik-provision-store/issues"
+  },
+  "homepage": "https://github.com/viramhh98/Swastik-provision-store#readme"
+}
