@@ -2,7 +2,7 @@
   "name": "swastik-provision-store",
   "version": "1.0.0",
   "description": "website for swastik provision store",
-  "main": "App.js",
+
   "scripts": {
     "test": "jest"
   },
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/viramhh98/Swastik-provision-store/issues"
   },
-  "homepage": "https://github.com/viramhh98/Swastik-provision-store#readme"
+  "homepage": "https://github.com/viramhh98/Swastik-provision-store#readme",
+  "dependencies": {
+    "react": "^19.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  }
 }
